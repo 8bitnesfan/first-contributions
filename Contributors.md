@@ -1081,6 +1081,7 @@
 - [Aaron Tran](https://github.com/BobbyFergerson)
   [LiterLite](https://github.com/LiterLite)
 - [Tomer Hadar](https://github.com/Tomerki)
+- [Aidan Repchik](https://github.com/8bitnesfan)
 - [Aman](https://github.com/AmanWebDev2)
 - [Shrey joshi](https://github.com/Shreyyy07)
 - [Shrirang Joshi](https://github.com/shriI950)
